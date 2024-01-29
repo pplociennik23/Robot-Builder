@@ -1,0 +1,19 @@
+{
+  "name": "build-a-bot-server",
+  "version": "1.0.0",
+  "description": "Build a Robot App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "Vue.js"
+  ],
+  "author": "Patryk Płóciennik",
+  "license": "ISC",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.3"
+  }
+}
